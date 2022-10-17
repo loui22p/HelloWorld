@@ -10,6 +10,7 @@ namespace MikkelTestApp
             string name = "Louise";
             string boyfriend = "Mikkel";
             long smartness = 10000000000;
+            long beauty = 10000000000;
             Console.WriteLine($"Hello World, {name} aged {age}");
         }
     }
