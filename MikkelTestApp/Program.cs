@@ -8,6 +8,7 @@ namespace MikkelTestApp
         {
             string age = "25";
             string name = "Louise";
+            string boyfriend = "Mikkel";
             Console.WriteLine($"Hello World, {name} aged {age}");
         }
     }
