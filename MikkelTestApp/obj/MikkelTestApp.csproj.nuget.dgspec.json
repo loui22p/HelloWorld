@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj": {}
+    "D:\\projects\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj": {
+    "D:\\projects\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
+        "projectUniqueName": "D:\\projects\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
         "projectName": "MikkelTestApp",
-        "projectPath": "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
+        "projectPath": "D:\\projects\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
         "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\obj\\",
+        "outputPath": "D:\\projects\\MikkelTestApp\\MikkelTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",

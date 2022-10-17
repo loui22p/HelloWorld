@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBZTfGwqdnDmWBp/MHdBhJRSPA+CaRxS/O7+5pZ5a+Jw2IGwfWcb/7sCyV9XsFB5R8TJIbPTv+Z0CutYvk9kxQ==",
+  "dgSpecHash": "5Pg17oXfRQnVPj2CksSChcYmcwuykhE+7Uaxbdll8maskffQbFOPggSQT9BGq8HaMeJFpPi/bVe/Fsu7pWtLzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mikkel\\source\\repos\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
+  "projectFilePath": "D:\\projects\\MikkelTestApp\\MikkelTestApp\\MikkelTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
