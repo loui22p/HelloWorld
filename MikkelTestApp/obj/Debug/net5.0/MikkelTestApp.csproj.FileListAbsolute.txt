@@ -1,0 +1,16 @@
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.exe
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.deps.json
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.runtimeconfig.json
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.runtimeconfig.dev.json
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.dll
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\ref\MikkelTestApp.dll
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\bin\Debug\net5.0\MikkelTestApp.pdb
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.csprojAssemblyReference.cache
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.AssemblyInfoInputs.cache
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.AssemblyInfo.cs
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.dll
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\ref\MikkelTestApp.dll
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.pdb
+C:\Users\Mikkel\source\repos\MikkelTestApp\MikkelTestApp\obj\Debug\net5.0\MikkelTestApp.genruntimeconfig.cache
