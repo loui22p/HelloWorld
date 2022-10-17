@@ -6,8 +6,9 @@ namespace MikkelTestApp
     {
         static void Main(string[] args)
         {
+            string age = "25";
             string name = "Louise";
-            Console.WriteLine($"Hello World! {name}");
+            Console.WriteLine($"Hello World, {name} aged {age}");
         }
     }
 }
